@@ -1,0 +1,8 @@
+{
+  "name": "IK BootLoader",
+  "description": "Deep system controller, bloatware manager, and processor optimizer console for Android devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

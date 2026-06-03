@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Outer speedometer/dashboard gauge outline -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,4C7.58,4 4,7.58 4,12C4,14.21 4.9,16.21 6.34,17.66L7.76,16.24C6.67,15.15 6,13.65 6,12C6,8.69 8.69,6 12,6C15.31,6 18,8.69 18,12C18,13.65 17.33,15.15 16.24,16.24L17.66,17.66C19.1,16.21 20,14.21 20,12C20,7.58 16.42,4 12,4Z" />
+    <!-- Gauge needle -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,10C10.9,10 10,10.9 10,12C10,12.55 10.22,13.05 10.59,13.41L7.5,19.5L13.5,13.41C13.78,13.05 14,12.55 14,12C14,10.9 13.1,10 12,10Z" />
+</vector>
